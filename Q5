@@ -1,0 +1,4 @@
+const pName = " \t \t   Muhammad Afzal  \t";
+console.log(pName);
+const result = pName.trim();
+console.log(result);
