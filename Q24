@@ -1,0 +1,11 @@
+let name = "Mujahidd";
+console.log(name == "Mujahid" ? "true" : "false");
+console.log(name === "ali" ? "true" : "false");
+console.log(name == "Mujahidd" ? "true" : "false");
+
+console.log(3 > 7 ? "true" : "false");
+
+let arr = ["Abbas", "Ali", "Hassan"];
+console.log(arr.includes("Hassan") ? "Found" : "Not Found");
+console.log(arr.includes("Ali") ? "Found" : "Not Found");
+console.log(arr.includes("Ramzan") ? "Found" : "Not Found");
