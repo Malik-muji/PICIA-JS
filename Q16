@@ -1,0 +1,5 @@
+let gestList = ["ali RAZA", "qasam Ali", "Muhammad ALi"];
+for (let i = 0; i < gestList.length; i++) {
+  console.log(gest[i] + " i am inviting you on dinner");
+}
+console.log("I dinner table.");
