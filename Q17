@@ -1,0 +1,6 @@
+let gestlist = ["ali Raza", "Safdar", "Ali"];
+if (gestlist.length > 2) {
+  console.log("Sorry I have only space for 2 person");
+} else {
+  console.log("Wellcome");
+}
