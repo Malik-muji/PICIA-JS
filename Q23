@@ -1,0 +1,13 @@
+
+let car = "Civic";
+console.log(car == "honda" ? "true" : "false");
+console.log(car == "Civic" ? "true" : "false");
+console.log(car == "Bugati" ? "true" : "false");
+console.log(car == "Audi" ? "true" : "false");
+console.log(car == "Lemozine" ? "true" : "false");
+let name = "Mujahid";
+console.log(name == "Ali" ? "true" : "false");
+console.log(name == "Ali" ? "true" : "false");
+console.log(name == "Jon" ? "true" : "false");
+console.log(name == "Mujahid" ? "true" : "false");
+console.log(name == "jonas" ? "true" : "false");
