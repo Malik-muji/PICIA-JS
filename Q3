@@ -1,0 +1,4 @@
+var nameAuthor = "Albert Einstein";
+var quet = '"A person who naver made a mistake never tried anything new."';
+console.log(nameAuthor + " once said, " + quet);
+
