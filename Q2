@@ -1,0 +1,9 @@
+
+let personName = prompt("Enter Your Name");
+console.log(`${personName.toUpperCase()}`);
+console.log(`${personName.toLowerCase()}`);
+let nameT2 = personName[0].toUpperCase();
+console.log(nameT2 + personName.slice(1, personName.length));
+alert(`${personName.toUpperCase()}`);
+alert(`${personName.toLowerCase()}`);
+alert(` ${nameT2}  ${personName.slice(1, personName.length)}`);
